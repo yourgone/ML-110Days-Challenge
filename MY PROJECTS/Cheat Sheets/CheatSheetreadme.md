@@ -1,0 +1,2 @@
+# Machine Learning Quick References & Cheatsheets 
+This repository contains Jupyter notebooks with syntaxes and quick references of all machine learning models learned during this challenge. Maintained by user: yourgone.
